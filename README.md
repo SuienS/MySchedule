@@ -3,4 +3,5 @@ This project was developed as a Coursework requirement for the module Enterprise
 # Technologies
 * C#
 * Visual Studio
+* SQL
 * Design - MVC
